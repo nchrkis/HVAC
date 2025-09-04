@@ -30,7 +30,12 @@ Each CSV file contains four columns:
 The dataset can be used for:
 - Training and evaluating machine learning models (e.g., ANN, LSTM)  
 - Studying short-horizon forecasting of indoor climate variables  
-- Benchmarking algorithms for adaptive HVAC control and diagnostics  
+- Benchmarking algorithms for adaptive HVAC control and diagnostics
+
+## License
+
+This dataset is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt the data, provided that appropriate credit is given by citing the associated publication.
 
 ## Reference
 
