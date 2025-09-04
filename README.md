@@ -36,4 +36,4 @@ The dataset can be used for:
 
 If you use this dataset, please cite the associated paper:
 
-> [Christakis N. and Drikakis D.] *"Forecasting Chaos: AI-Enhanced Prediction of Indoor Climate Dynamics", submitted to Expert Systems with Applications, [2025].
+> Christakis N. and Drikakis D. "Forecasting Chaos: AI-Enhanced Prediction of Indoor Climate Dynamics", submitted to Expert Systems with Applications, [2025].
